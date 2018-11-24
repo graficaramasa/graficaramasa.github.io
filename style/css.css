@@ -165,8 +165,7 @@ ol li {
   margin: 0 0 19px 21px;
 }
 
-#carrossel,
-.album {
+div.album {
   padding: 0 !important;
 }
 
