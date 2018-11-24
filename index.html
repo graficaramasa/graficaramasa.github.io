@@ -77,7 +77,14 @@
     <script type="text/javascript">
       $(document).ready(function(){
         $('.album').slick({
-          arrows: true
+          arrows: true,
+          adaptiveHeight: true,
+          autoplay: true,
+          dots: true,
+          centerMode: true,
+          infinite: true,
+          variableWidth: true,
+          lazyLoad: 'ondemand', // ondemand progressive anticipated
         });
       });
     </script>
