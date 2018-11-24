@@ -178,3 +178,7 @@ iframe {
   height: 400px;
   overflow: hidden;
 }
+
+#carrossel {
+  padding-bottom: 60px;
+}
