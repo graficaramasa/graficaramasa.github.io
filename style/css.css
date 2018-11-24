@@ -21,10 +21,6 @@ body {
   color: #606366;
   }
 
-div {
-  padding: 60px 0;
-  }
-
 #tudo {
   width: 720px;
   padding-top: 0;
@@ -32,6 +28,7 @@ div {
   }
 
 #marca {
+  padding: 60px 0;
   text-align: center;
   position: relative;
   }
@@ -65,6 +62,7 @@ h3 {
 }
 
 #somos, #fazemos, #voce {
+  padding: 60px 0;
   background: url('divisor.png') no-repeat;
   margin-top: -1px;
   position: relative;
@@ -163,10 +161,6 @@ ol li {
   font-size: 14px;
   line-height: 20px;
   margin: 0 0 19px 21px;
-}
-
-div.album {
-  padding: 0 0 120px 0 !important;
 }
 
 #mapa {
