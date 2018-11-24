@@ -66,6 +66,7 @@ h3 {
   background: url("../img/divisor.png") no-repeat;
   margin-top: -1px;
   position: relative;
+  clear: both;
   }
 
 #servicos, #acabamentos, #contato {
@@ -180,7 +181,7 @@ iframe {
 }
 
 #somos {
-  margin-top: 100px;
+  margin-top: 60px !important;
 }
 
 .clearfix::after {
