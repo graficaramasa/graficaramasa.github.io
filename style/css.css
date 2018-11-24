@@ -63,7 +63,7 @@ h3 {
 
 #somos, #fazemos, #voce {
   padding: 60px 0;
-  background: url('./img/divisor.png') no-repeat;
+  background: url('../img/divisor.png') no-repeat;
   margin-top: -1px;
   position: relative;
   }
@@ -98,13 +98,13 @@ li {
   }
 
 .cosm {
-  background: url('./img/undercosm.png') bottom no-repeat;
+  background: url('../img/undercosm.png') bottom no-repeat;
   }
 .farm {
-  background: url('./img/underfarm.png') bottom no-repeat;
+  background: url('../img/underfarm.png') bottom no-repeat;
   }
 .vet {
-  background: url('./img/undervet.png') bottom no-repeat;
+  background: url('../img/undervet.png') bottom no-repeat;
   }
 
 strong {
