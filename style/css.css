@@ -22,13 +22,11 @@ body {
   }
 
 div {
-  float: left;
   width: 720px;
   padding: 60px 0;
   }
 
 #tudo {
-  float: none;
   padding-top: 0;
   }
 
