@@ -181,7 +181,10 @@ iframe {
 }
 
 #fazemos {
-  margin-top: 100px !important;
+  margin-top: 80px !important;
+}
+#voce {
+  padding-bottom: 80px !important;
 }
 
 .clearfix::after {
