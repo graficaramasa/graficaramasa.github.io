@@ -28,11 +28,10 @@ div {
 
 #tudo {
   padding-top: 0;
+  margin: auto;
   }
 
 #marca {
-  width: 720px;
-  margin: auto;
   text-align: center;
   position: relative;
   }
