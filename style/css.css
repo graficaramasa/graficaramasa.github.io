@@ -165,8 +165,9 @@ ol li {
   margin: 0 0 19px 21px;
 }
 
-#carrossel {
-  padding: 0;
+#carrossel,
+.album {
+  padding: 0 !important;
 }
 
 #mapa {
