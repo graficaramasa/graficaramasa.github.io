@@ -1,0 +1,185 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  }
+
+a, a:visited {
+  color: #0668E0;
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 1px solid #eee;
+  }
+
+a:hover {
+  background: #0668E0;
+  color: #fff;
+}
+
+body {
+  font: 18px "Helvetica Neue", Helvetica, sans-serif;
+  color: #606366;
+  }
+
+div {
+  float: left;
+  width: 720px;
+  padding: 60px 0;
+  }
+
+#tudo {
+  width: 720px;
+  margin: auto;
+  float: none;
+  padding-top: 0;
+  }
+
+#marca {
+  text-align: center;
+  position: relative;
+  }
+
+#marca img {
+  margin: -1px 0;
+}
+
+h1 {
+  font: 28px/36px 'Century Old Style Std', 'Century Schoolbook', Georgia, serif;
+  text-align: justify;
+  width: 640px;
+  margin: 1px auto 0;
+  }
+
+h1 strong {
+  font-weight: normal;
+  color: #000;
+  }
+
+h2 {
+  font-size: 24px;
+  line-height: 40px;
+  color: #000;
+  }
+
+h3 {
+  font-size: 18px;
+  line-height: 40px;
+  color: #000;
+}
+
+#somos, #fazemos, #voce {
+  background: url('divisor.png') no-repeat;
+  margin-top: -1px;
+  position: relative;
+  }
+
+#servicos, #acabamentos, #contato {
+  width: 300px;
+  float: left;
+  margin: 0 0 0 40px;
+  padding: 0;
+  }
+
+#visita {
+  width: 300px;
+  margin: 0 40px 0 0;
+  padding: 0;
+  float: right;
+}
+
+#visita em {
+  font-style: normal;
+  color: #505356;
+  background: #FFD900;
+}
+
+ul {
+  margin: 1px 0 0 18px;
+  }
+
+li {
+  font-size: 18px;
+  line-height: 30px;
+  }
+
+.cosm {
+  background: url('undercosm.png') bottom no-repeat;
+  }
+.farm {
+  background: url('underfarm.png') bottom no-repeat;
+  }
+.vet {
+  background: url('undervet.png') bottom no-repeat;
+  }
+
+strong {
+  color: #000;
+  }
+
+p {
+  font-size: 16px;
+  line-height: 24px;
+  margin: 4px 0 20px 0;
+}
+
+#caneta {
+  position: absolute;
+  padding: 0;
+  }
+
+img.caneta {
+  position: absolute;
+  z-index: 100;
+  }
+
+#ola {
+  top: 194px;
+  left: 10px;
+  }
+
+#nota {
+  visibility: hidden;
+  top: 200px;
+  left: 510px;
+  }
+
+#marca:hover #nota {
+  visibility: visible;
+  }
+
+#serv {
+  top: -58px;
+  left: 140px;
+  }
+
+#duvida {
+  top: 221px;
+  left: 43px;
+  }
+
+#venha {
+  top: 160px;
+  left: 191px;
+  }
+
+ol li {
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0 0 19px 21px;
+}
+
+#mapa {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border-top: 4px solid #ffcc33;
+  margin: -17px 0 0;
+}
+
+iframe {
+  border: 0;
+  border-top: 4px solid #ffcc33;
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+}
